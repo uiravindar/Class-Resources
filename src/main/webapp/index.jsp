@@ -14,9 +14,13 @@
         h1 {
             font-size: 3em;
         }
+        h1 {
+            font-size: 2em;
+        }
     </style>
 </head>
 <body>
     <h1> DevSecOps-Easy welcomes you</h1>
+    <h2>by the way Iam coming from SCM Script</h2>
 </body>
 </html>
